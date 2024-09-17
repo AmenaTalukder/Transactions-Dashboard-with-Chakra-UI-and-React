@@ -8,7 +8,7 @@ This project is a Transactions Management Dashboard built using React and Chakra
 Dashboard Layout: A structured and intuitive dashboard interface using reusable components.<br>
 Tabs for Filtering: Tabs to switch between different types of transactions like All, Deposit, Withdraw, and Trade.<br>
 Responsive Transaction Table: Displays detailed transaction records with the following attributes:<br>
-Transaction ID<br>
+<br>Transaction ID<br>
 Date & Time<br>
 Transaction Type (Deposit, Withdraw, Trade, etc.)<br>
 Amount (in BDT and BTC)<br>
@@ -18,7 +18,7 @@ CSV Export: A button to export transaction data in CSV format.<br>
 Custom Theming: Utilizes a custom theme with Chakra UI, including custom colors, fonts, and styles.<br>
 Dynamic Status Tags: Transaction statuses are color-coded with tags for better readability.<br>
 Responsive Design: The dashboard is optimized for different screen sizes and devices.<br>
-🛠️ Technologies Used<br>
+## 🛠️ Technologies Used<br>
 React: Core framework for building the dashboard.<br>
 Chakra UI: For building the user interface with pre-built accessible components.<br>
 React Router: For routing between different pages, such as the dashboard and support.<br>
