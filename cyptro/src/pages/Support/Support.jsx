@@ -1,5 +1,5 @@
 import { IoMdMail } from "react-icons/io";
-import DashboardLayout from "../../components/DashboardLayout";
+import DashboardLayout from "../../Components/DashboardLayout";
 import ContactCard from "./components/ContactCard";
 import SupportCard from "./components/SupportCard";
 import { AiTwotoneMessage } from "react-icons/ai";
