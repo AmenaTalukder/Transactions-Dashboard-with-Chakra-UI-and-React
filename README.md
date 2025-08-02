@@ -30,3 +30,4 @@ Transaction Table: A reusable component displaying transaction data with the abi
 Tabs: Dynamically generated tabs for filtering transactions by type.<br>
 Custom Theme: A custom Chakra UI theme extending colors, fonts, and other styles.<br>
 
+"# Updated" 
