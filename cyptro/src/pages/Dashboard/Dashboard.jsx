@@ -1,6 +1,6 @@
 import { Grid, GridItem } from "@chakra-ui/react";
 
-import PortfolioSection from "./components/portfolioSection";
+import PortfolioSection from "./components/PortfolioSection";
 import PriceSection from "./components/PriceSection";
 import Transactions from "./components/Transactions";
 import InfoCard from "./components/InfoCard";
