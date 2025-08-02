@@ -4,7 +4,7 @@ import PortfolioSection from "./components/PortfolioSection";
 import PriceSection from "./components/PriceSection";
 import Transactions from "./components/Transactions";
 import InfoCard from "./components/InfoCard";
-import DashboardLayout from "../../components/DashboardLayout";
+import DashboardLayout from "../../Components/DashboardLayout";
 
 const Dashboard = () => {
   return (
