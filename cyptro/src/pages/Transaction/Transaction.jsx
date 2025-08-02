@@ -17,7 +17,7 @@ import {
 import { FaDownload } from "react-icons/fa6";
 import { BsSearch } from "react-icons/bs";
 import TransactionTable from "./component/TransactionTable";
-import DashboardLayout from "../../components/DashboardLayout";
+import DashboardLayout from "../../Components/DashboardLayout";
 
 const Transaction = () => {
   const tabs = [
